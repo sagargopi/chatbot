@@ -78,7 +78,3 @@ The application uses two main tables:
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for any improvements.
-
-## License
-
-MIT License
